@@ -1,7 +1,6 @@
 <h1>Skystead Ranch</h1>
 
-### [Steam Page]()
- ### [YouTube Trailer]()
+### [Steam Page](https://store.steampowered.com/app/2399570/Skystead_Ranch/)
 
 <h2>Description</h2>
 <p>
