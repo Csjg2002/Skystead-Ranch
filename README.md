@@ -28,7 +28,7 @@ It marks the first game I have been officially credited on!
 <h2>In-game Screenshots:</h2>
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Skystead Ranch"/>
+<img src="https://imgpile.com/p/ubw3jNs" height="80%" width="80%" alt="Skystead Ranch"/>
 <br />
 <br />
 
