@@ -15,7 +15,7 @@ I worked on this project both during my internship and leading up to release. I 
 <h2>In-game Clips:</h2>
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Skystead Ranch"/>
+<img src="https://github.com/user-attachments/assets/63a50b73-4b41-4799-8c41-7b5060e9a0f3" height="80%" width="80%" alt="Skystead Ranch"/>
 <br />
 <br />
 </p>
