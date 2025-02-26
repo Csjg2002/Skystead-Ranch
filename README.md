@@ -18,6 +18,9 @@ I worked on this project both during my internship and leading up to release. I 
 <img src="https://github.com/user-attachments/assets/63a50b73-4b41-4799-8c41-7b5060e9a0f3" height="80%" width="80%" alt="Skystead Ranch"/>
 <br />
 <br />
+<img src="https://github.com/user-attachments/assets/4b4446e1-925d-4255-9050-bd5af5e0499f" height="80%" width="80%" alt="Skystead Ranch"/>
+<br />
+<br />
 </p>
 
 <h2>In-game Screenshots:</h2>
