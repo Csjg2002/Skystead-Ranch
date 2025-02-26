@@ -8,7 +8,7 @@
 Skystead Ranch has players transform a desolate sky island into a vibrant sanctuary. Using your enchanted crook, you can cultivate your garden, befriend quirky creatures, build a home, and uncover secrets along the way. Every decision you make adds a personal touch to your very own unique ranch!
 </p>
 <p>
-I worked on this project both during my internship and leading up to release. I prototyped features such as the fishing mechanic, controller support, the item selection wheel, and other concepts that didn’t make the final cut.
+I worked on this project both during my internship and leading up to release. I prototyped features such as the fishing mechanic, controller support, the item selection wheel, and other concepts that didn’t make the final cut. It marks the first game I have been officially credited on!
 </p>
 <br />
 
